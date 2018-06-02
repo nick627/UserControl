@@ -3,8 +3,6 @@ User security settings in Windows
 
 The program for managing accounts and access control in Windows OS, using the capabilities of the Windows API
 
-The program for managing accounts and access control in Windows OS, using the capabilities of the Windows API.
-
 • programming language: C/C ++;
 • Dynamic loading of Windows libraries implementing Windows API functions;
 • The program being developed should not use ready-made wrappers over the Windows API;
